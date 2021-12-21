@@ -1,0 +1,35 @@
+.feed-text-large{
+    max-width: 100% !important;
+}
+
+.feed-meta-large{
+    width: 100% !important;
+    margin: 12px 0 !important;
+}
+
+.feed-div{
+    border-bottom: 1px solid lightgrey;
+    padding: 12px 0 !important;
+}
+
+.reply-span{
+    font-size: 90%;
+    color: grey;
+}
+
+.ui.feed>.event>.label{
+    padding-top: 10px;
+}
+
+.ui.indicating.progress .bar{
+    /* background-color: #2185d0!important; */
+    background-color: skyblue !important;
+}
+
+.progress-div-holder{
+    margin-bottom: 36px;
+}
+
+.ui.message{
+    margin-bottom: 12px !important;
+}
