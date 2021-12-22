@@ -42,6 +42,7 @@ class Chitti extends Component{
                         labelPosition='right'
                         placeholder="Enter Topic Name!" 
                         required
+                        value={this.state.topic}
                         onChange={event => this.setState({topic: event.target.value})}    
                     />
                 </Form.Field>

@@ -63,6 +63,7 @@ export default class TopicShow extends Component {
                         labelPosition='right'
                         placeholder="Enter Something!" 
                         required
+                        value={this.state.chit}
                         onChange={event => this.setState({chit: event.target.value})}    
                     />
                 </Form.Field>
