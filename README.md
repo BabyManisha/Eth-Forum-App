@@ -1,5 +1,7 @@
 # Discussion forum
 
+## Check the Live App Here 
+http://misty-cedar-island.glitch.me/
 
 ## STEPS
 1. To compile run below command, it will save the api and bytecode in the ethereum/build/Chitti.json file

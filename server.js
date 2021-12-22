@@ -5,7 +5,7 @@ require('dotenv').config()
 const app = next({
     dev: process.env.NODE_ENV !== 'production'
 })
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
 const routes = require('./routes');
 const handler = routes.getRequestHandler(app);
 
