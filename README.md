@@ -13,4 +13,6 @@
    
 
 ## DEMO
+![WATCH DEMO](Demo/Eth-App-Demo.gif)
+
 [Click here for Demo](../eth-discussion-forum/Demo/Eth-App-Demo.webm)
